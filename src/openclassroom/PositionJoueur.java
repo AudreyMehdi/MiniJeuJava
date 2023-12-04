@@ -4,7 +4,7 @@ public class PositionJoueur {
      
 	private int x =0;
 	private int y =0;
-	
+	 
 	public PositionJoueur(int x, int y) {
 		super();
 		this.x = x;
